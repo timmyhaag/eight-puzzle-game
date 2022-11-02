@@ -75,7 +75,7 @@ public class EightPuzzleGame {
 		//solveInf.run();
 		//long stopTime = System.currentTimeMillis();
 		//System.out.println("Computational time for solver in ms: " + (stopTime - startTime));
-        //***************************************************************************
+                //***************************************************************************
 
 
 		//***************************************************************************
